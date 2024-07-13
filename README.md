@@ -1,2 +1,2 @@
 # React-boilerplate
-React boilerplate which includes React, TypeScript, webpack, tailwindcss, ESLint settings.
+A React boilerplate that includes React, TypeScript, webpack, tailwindcss, and ESLint configurations.
